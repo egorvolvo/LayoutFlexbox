@@ -1,0 +1,80 @@
+.header {
+  margin-top: 30px;
+  margin-bottom: 35px;
+}
+.container-header {
+  display: flex;
+  align-items: center;
+  margin-bottom: 30px;
+}
+.Personal_Area {
+  margin-left: auto;
+}
+
+.section-contacts-link {
+  font-size: 20px;
+  color:#666666;
+}
+.logo-img {
+  margin-right: 34px;
+}
+.head-nav {
+  display: flex;
+  align-items: center;
+  padding-left: 45px;
+  padding-right: 45px;
+  border: solid 1px #ffffff;
+  border-radius: 15px;
+  background-color: #ffffff;
+}
+
+.nav_heading_list {
+  display: flex;
+}
+.nav_heading_list_item {
+  list-style: none;
+  font-size: 16px;
+  line-height: 1;
+  color: #886060;
+}
+
+.nav_heading{
+  padding-top: 27px;
+  padding-bottom: 27px;
+}
+.nav_heading_list_item:not(:last-child) {
+  margin-right: 45px;
+}
+
+.nav_heading_list_item:last-child {
+  margin-right: 56px;
+}
+.section_communication {
+  margin-left: auto;
+}
+
+.section_communication_border{
+  border-left: 1px solid #E1E1E1;
+  width: 1px;
+  height: 50px;
+}
+
+.section_communication_button {
+  padding: 12px 15px;
+  color: #CC9933;
+  border: 1px solid #CC9933;
+  background-color: #ffffff;
+  border-radius: 10px;
+}
+.section_communication_button_right {
+  margin-left: 51px;
+}
+.Personal_Area {
+  font-size: 16px;
+  color: #CC9933;
+  background-image: url(../img/Vector.svg);
+  background-repeat: no-repeat;
+  padding-left: 29px;
+  background-position-y: inherit;
+}
+

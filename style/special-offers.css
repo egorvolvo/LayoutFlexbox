@@ -1,0 +1,92 @@
+.section-offers-main {
+  display: flex;
+}
+.section-offers-left {
+  display: flex;
+  flex-direction: column;
+  width: 573px;
+  margin-right: 23px;
+}
+
+.section_offers_info_block {
+  padding: 40px 240px 40px 40px;
+}
+
+.section_heading_text {
+  line-height: 1;
+  font-size: 40px;
+  color: #333333;
+  margin-bottom: 20px;
+}
+
+
+
+.section_offers_info_maldives {
+  background: url(../img/Maldives.jpg) no-repeat;
+  background-size: contain;
+  width: 573px;
+  height: 258px;
+  background-color: #E5E5E5;
+  margin-bottom: 23px;
+
+}
+
+.section_offers_info_crete {
+  background: url(../img/Crete.jpg) no-repeat;
+  background-size: contain;
+  width: 573px;
+  height: 258px;
+  background-color: #E5E5E5;
+
+}
+
+.section_offers_info_lux {
+  background: url(../img/Lux.jpg) no-repeat;
+  background-size: contain;
+  width: 573px;
+  height: 540px;
+  background-color: #E5E5E5;
+}
+
+.section_offers_main_text{
+  font-size: 40px;
+  line-height: 1;
+  color: #FFFFFF;
+  font-weight: 700;
+  margin-bottom: 15px;
+}
+
+.section_offers_sale {
+  font-size: 20px;
+  color: #FFFFFF;
+  opacity: 0.8;
+  margin-bottom: 47px;
+}
+
+.section_offers_details_info {
+  color: #FFCC66;
+  font-size: 16px;
+  line-height: 1;
+  opacity: 0.9;
+  background: url(../img/Rectangle\ 2.png) no-repeat right ;
+  background-size: contain;
+  padding-right: 15px;
+}
+.section_offers_info_block_lux {
+  padding: 211px 234px 149px 40px;
+}
+
+
+.section_offers_lux_main_text {
+  font-size: 60px;
+  color: #FFFFFF;
+  margin-bottom: 15px
+}
+
+.section_offers_lux_sale {
+  font-size: 30px;
+  line-height: 1;
+  margin-bottom: 47px;
+  color: #FFFFFF;
+  opacity: 0.8;
+}

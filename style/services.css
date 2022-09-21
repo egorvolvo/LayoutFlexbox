@@ -1,0 +1,9 @@
+.section_services_list {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.section_services_list_item {
+  flex: 1 0 40%;
+  padding: 26px 26px 26px 26px;
+}

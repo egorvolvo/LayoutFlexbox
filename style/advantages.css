@@ -1,0 +1,15 @@
+.section_advantages_list {
+  display: flex;
+  flex-wrap: wrap;
+  padding-left: 0;
+}
+
+.section_advantages_list_item {
+  flex: 1 1 25%;
+  padding: 42px 42px 42px 42px;
+}
+
+.section_advantages_list_item_down {
+  padding-top: 23px;
+  padding: 42px 42px 42px 42px;
+}

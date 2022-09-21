@@ -1,0 +1,12 @@
+.accomodation_list {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.accomodation_item {
+  flex: 1 1 33%;
+}
+
+.section_accomodation_list_info{
+  padding:40px 40px 40px 40px;
+}
